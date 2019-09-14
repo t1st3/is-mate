@@ -15,7 +15,7 @@ $ npm install --save is-mate
 ```js
 const isMate = require('is-mate');
 
-isMate().then(data => {
+isMate.then(data => {
   console.log(data);
   //=> true or false
 });
