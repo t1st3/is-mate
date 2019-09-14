@@ -1,6 +1,6 @@
 {
   "name": "is-mate",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Check if the current session runs Mate desktop",
   "license": "MIT",
   "repository": "t1st3/is-mate",
